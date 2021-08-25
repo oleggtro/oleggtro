@@ -6,14 +6,13 @@ welcome to my profile! I'm a bavarian high school student, working on mainly web
 </a>
 
 <img src="./hackerman.gif" align=right height="auto" width="350vw">
-<br>
 <!-- really professional spacer -->
 <br>
 
 
 - 👨‍💻 most of my projects are open source
 - <img src="ferris.svg" height="auto" width="20vw"> i mainly do rust stuff 
-- 📨 reach out to me via [email](mailto:hi@cloudybyte.net), [twitter](https://twitter.com/cloudybyte) or discord (cloudybyte#1234)
+- 📨 reach out to me via [email](mailto:hi@cloudybyte.net), [twitter](https://twitter.com/cloudybyte) or discord(cloudybyte#1234)
 - 🐧 i like penguins
 
 
