@@ -12,11 +12,10 @@ welcome to my profile! I'm a bavarian high school student, working on mainly web
 
 - 👨‍💻 most of my projects are open source
 - <img src="ferris.svg" height="auto" width="20vw"> i mainly do rust stuff 
-- 📨 reach out to me via [email](mailto:hi@cloudybyte.net), [twitter](https://twitter.com/cloudybyte), <a rel="me" href="https://social.schuppen.dev/@cloudybyte">mastodon</a> or discord(cloudybyte#7703)
+- 📨 reach out to me via [email](mailto:hi@cloudybyte.net), [twitter](https://twitter.com/cloudybyte), <!-- <a rel="me" href="https://social.schuppen.dev/@cloudybyte">mastodon</a>--> or discord(cloudybyte#7703)
 - 🐧 i like penguins
 
-
-<br><strong>JS and everything based on it is hell.</strong>
+<br>
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=cloudybyte&show_icons=true&locale=en&theme=cobalt"><br>
 <sub>fact: electron is sin</sub>
