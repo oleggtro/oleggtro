@@ -12,7 +12,6 @@ welcome to my profile! I'm a bavarian high school student, working on mainly web
 
 <!-- really professional spacer -->
 <br><br><br><br><br><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=cloudybyte&show_icons=true&locale=en&theme=cobalt">
 
 
 <sub>fact: electron is sin</sub>
