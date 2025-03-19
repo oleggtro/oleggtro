@@ -7,7 +7,7 @@ welcome to my profile! I'm a bavarian high school student, working on mainly web
 
 - 👨‍💻 most of my projects are open source
 - <img src="ferris.svg" height="auto" width="20vw"> i mainly do rust stuff 
-- 📨 reach out to me via [email](mailto:ole@oleggtro.com), [twitter](https://twitter.com/ole_war_da), [mastodon](https://chaos.social/@cloudy) <!-- <a rel="me" href="https://chaos.social/@cloudy">mastodon</a>--> or discord&nbsp;(@oleggtro)
+- 📨 reach out to me via [email](mailto:ole@oleggtro.com), [mastodon](https://chaos.social/@cloudy) <!-- <a rel="me" href="https://chaos.social/@cloudy">mastodon</a>--> or discord&nbsp;(@oleggtro)
 - 🐧 i like penguins
 
 <!-- really professional spacer -->
